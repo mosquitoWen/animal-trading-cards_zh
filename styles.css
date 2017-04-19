@@ -1,0 +1,35 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	align-content: center;
+	width: 340px;
+	border-style: groove;
+	border-color: #FEFEFE1
+	padding: 20px;
+}
+title {
+	padding-left: 20px
+}
+#desprition {
+	font-style: italic;
+}
+.point {
+	line-height: 50%
+}
+.content {
+	border-style: groove;
+	border-color: #FEFEFE1
+	width: 300px;
+	align-content: center;
+}
+.samoyed_image {
+	width: 300px;
+	padding: 20px;
+}
+.left_descrition {
+	font-weight: bold;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
